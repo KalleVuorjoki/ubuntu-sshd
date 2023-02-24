@@ -1,4 +1,4 @@
-FROM       ubuntu:%VERSION%
+FROM       ubuntu:22.04
 MAINTAINER Kalle Vuorjoki "https://github.com/KalleVuorjoki"
 
 RUN apt-get update
